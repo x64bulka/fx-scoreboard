@@ -1,0 +1,2 @@
+# fx-scoreboard
+FiveM Scoreboard
